@@ -20,7 +20,7 @@ TO access HackerNews API
 npm start
 
 The website will be served on
-Local:            http://localhost:3000/
+Local:            http://localhost:3000/ <br/>
 On Your Network:  http://192.168.0.8:3000/
 
 You are making this world a better place with new HackerNews interface ;)
